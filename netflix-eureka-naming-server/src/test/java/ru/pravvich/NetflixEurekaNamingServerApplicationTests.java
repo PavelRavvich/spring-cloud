@@ -1,4 +1,4 @@
-package ru.pravvich.netflixeurekanamingserver;
+package ru.pravvich;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
