@@ -11,6 +11,6 @@ import lombok.Data;
 @NoArgsConstructor
 @AllArgsConstructor
 public class LimitConfiguration {
-    private int maximun;
+    private int maximum;
     private int minimum;
 }
